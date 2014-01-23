@@ -1,3 +1,5 @@
+//‚¿‚å‚Á‚Æ•Ï‚¦‚Ä‚Ý‚é
+
 #include "Test_CustomMenue.h"
 #include "resource.h"
 
